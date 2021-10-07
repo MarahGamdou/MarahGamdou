@@ -21,4 +21,7 @@ You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](h
 ![](https://img.shields.io/badge/Tools-Hadoop-informational?style=flat&logo=hadoop&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=ff69b4)
 
+## Publications 📰
+
+* M. Monshizadeh, V. Khatri, M. Gamdou, R. Kantola and Z. Yan, "Improving Data Generalization With Variational Autoencoders for Network Traffic Anomaly Detection," in IEEE Access, vol. 9, pp. 56893-56907, 2021, doi: 10.1109/ACCESS.2021.3072126.
 ## Stay awesome! ✨
