@@ -7,7 +7,7 @@ You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](h
 
 - 🌱 I am interested in data science projects with social or environmental impact!
 - 🤝 I’m looking to help people without a mathematical background understand the mathematics behind data science, as it is crucial to develop their critical thinking in this field. 
-- 📫 Feel free to reach out to me to discuss any opportunities!
+- 📫 Feel free to reach out to me (on LinkedIn) to discuss any opportunities!
 
 ## Technologies & Tools 👩‍💻
 
