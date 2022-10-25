@@ -6,18 +6,4 @@ You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](h
 - 🌱 I am interested in data science projects with social or environmental impact! 
 - 📫 Feel free to reach out to me (on LinkedIn) to discuss any opportunities!
 
-## Technologies & Tools 👩‍💻
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Code-Cython-informational?style=flat&logo=python&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Tools-Spark-informational?style=flat&logo=apachespark&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Tools-Hadoop-informational?style=flat&logo=hadoop&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=ff69b4)
-
-## Publications 📰
-
-* M. Monshizadeh, V. Khatri, M. Gamdou, R. Kantola and Z. Yan, "Improving Data Generalization With Variational Autoencoders for Network Traffic Anomaly Detection," in IEEE Access, vol. 9, pp. 56893-56907, 2021, doi: 10.1109/ACCESS.2021.3072126.
